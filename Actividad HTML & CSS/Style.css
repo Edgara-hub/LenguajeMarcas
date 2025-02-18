@@ -1,0 +1,45 @@
+#titulo1{
+    color:teal;
+}
+
+#titulo2{
+    color: blue;
+}
+
+.table-tittle{
+    color: blue;
+}
+table{
+    border: black solid;
+}
+
+th{
+    border: black solid;
+}
+td{
+    border: black solid;
+}
+
+.rojo{
+    color: red;
+}
+
+#negrita{
+    font:bold;
+}
+
+.amarillo{
+    color: orange;
+}
+
+.pistacho{
+    color:olive;
+}
+
+.rosa{
+    color: fuchsia;
+}
+
+.verde{
+    color: green;    
+}
